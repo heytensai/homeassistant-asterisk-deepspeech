@@ -1,0 +1,4 @@
+Channel: SIP/trunk-name/number-to-dial
+Context: garbageman-answer
+Extension: s
+Priority: 1
